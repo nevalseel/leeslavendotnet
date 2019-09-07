@@ -4,10 +4,12 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I create critical and informative content mostly about the politics of the Korean Peninsula. I have a Bachelor of Arts in Asian Studies from the Elliott School of International Affairs at the George Washington Univeristy and I am currently a candidate for a Master of Arts in Korean Studies at the Seoul National University Graduate School of International Studies.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+My mission is to help resolve the conflict on the Korean Peninsula by empowering the struggle against the violent presence and toxic influence of the United States.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+![I'll put a picture of me looking cool or something here.](/media/image-2.jpg)
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+*I'll put a picture of me looking cool or something here.*
+
+In my spare time I enjoy [taking photos](https://photo.leeslaven.net), riding my fixed-gear, playing soccer, owning noobs, posting, and building solidarity.

@@ -1,6 +1,9 @@
 @import '../../assets/scss/variables';
 @import '../../assets/scss/mixins';
 
+div {
+    background: #EFEFEF;
+}
 .layout {
     lost-center: $layout-width;
 }
